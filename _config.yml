@@ -18,7 +18,7 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: DevDungeon # the main title
+title: Capycity # the main title
 
 tagline: A place about software and hardware development # it will display as the sub-title
 
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   A place for software and hardware development. The topics are diverse and range from web development with HTML, CSS, JS in conjunction with certain frameworks to programming microcontrollers (e.g. Arduino or MCUs from STM) with C++ to creating your own hardware.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://devdungeon.de"
+url: "https://capycity.de"
 
 github:
   username: Bimpfi # change to your github username
@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Bimpfi
-  email: bimpfi@devdungeon.de # change to your email address
+  email: bimpfi@capycity.de # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
