@@ -10,11 +10,11 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Startseite
+  home: Capynews
   categories: Kategorien
   tags: Tags
   archives: Archiv
-  about: Über
+  about: Über Capycity
 
 # the text displayed in the search bar & search results
 search:
